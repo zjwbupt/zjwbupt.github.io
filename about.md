@@ -11,4 +11,4 @@ title: About
   Thanks! 
 </p>
 
-Thanks for reading!
+## Thanks for reading!
