@@ -8,7 +8,6 @@ public void sortColors(int[] nums) {
         int p_min = 0;
         int p_max = nums.length-1;
         int i = 0;
-		
         // continue increase i, when we are not out of boundery;
         while(i<=p_max) {
             if(nums[i] == 0) {
@@ -34,3 +33,4 @@ public void sortColors(int[] nums) {
         n[j] = temp;
     }
 }
+```
